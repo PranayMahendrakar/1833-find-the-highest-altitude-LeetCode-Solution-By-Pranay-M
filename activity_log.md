@@ -6,3 +6,4 @@
 - [2026-03-20T14:25:59Z] feat: add helper utility function
 - [2026-03-20T10:36:35Z] perf: optimize loop for better performance
 - [2026-03-20T08:47:48Z] refactor: clean up unused imports
+- [2026-04-03T10:02:43Z] test: add unit tests for core module
