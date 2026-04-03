@@ -8,3 +8,4 @@
 - [2026-03-20T08:47:48Z] refactor: clean up unused imports
 - [2026-04-03T10:02:43Z] test: add unit tests for core module
 - [2026-04-03T12:50:47Z] refactor: clean up unused imports
+- [2026-04-03T18:11:00Z] feat: add helper utility function
